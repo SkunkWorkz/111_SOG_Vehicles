@@ -4,7 +4,7 @@ class CfgPatches
 	class 111_Vehicles
 	{
 			
-		requiredAddons[] = {"rhs_c_cars","rhs_tigr","A3_CIV_F"};
+		requiredAddons[] = {"rhs_c_cars","rhs_tigr","A3_Weapons_F", "a3_weapons_f_beta", "A3_Weapons_F_gamma", "A3_Characters_F", "A3_Characters_F_beta", "A3_Characters_F_gamma", "A3_Soft_F"};
 		requiredVersion = 0.1;
 		units[] = {"111SOG_offroad","111SOG_tigr"};
 		weapons[] = {};
@@ -27,7 +27,7 @@ class cfgVehicles
 			//_generalMacro = C_Offroad_01_F;
 			scope = 2;
 			side = West;
-			faction = "";
+			faction = "BLU_F";
 			vehicleClass = "car";
 			displayName = "111SOG Modified Offroad";
 			author = "Shrike";
