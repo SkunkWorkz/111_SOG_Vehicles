@@ -15,7 +15,7 @@ class CfgPatches
 
 
 //-------------------------------OFFROAD TRUCK----------------------------------//
-
+//TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST
 
 class cfgVehicles 
 {
