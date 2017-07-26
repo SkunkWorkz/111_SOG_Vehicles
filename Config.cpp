@@ -4,7 +4,7 @@ class CfgPatches
 	class 111_Vehicles
 	{
 			
-		requiredAddons[] = {"rhs_c_cars","rhs_tigr","CIV_F"};
+		requiredAddons[] = {"rhs_c_cars","rhs_tigr","A3_CIV_F"};
 		requiredVersion = 0.1;
 		units[] = {"111SOG_offroad","111SOG_tigr"};
 		weapons[] = {};
@@ -15,7 +15,6 @@ class CfgPatches
 
 
 //-------------------------------OFFROAD TRUCK----------------------------------//
-//TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST
 
 class cfgVehicles 
 {
