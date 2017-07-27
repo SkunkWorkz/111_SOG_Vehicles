@@ -27,7 +27,7 @@ class cfgVehicles
 			//_generalMacro = C_Offroad_01_F;
 			scope = 2;
 			side = West;
-			faction = "BLU_F";
+			faction[] = {"BLU_F"};
 			vehicleClass = "car";
 			displayName = "111SOG Modified Offroad";
 			author = "Shrike";
